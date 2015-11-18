@@ -28,6 +28,9 @@ Please let me know if you have any doubt.
 #contact
 
 Manish Shrivastava
+
 Mob: +91-9993858772
+
 Email: er.manishshrivastava@gmail.com
+
 URL: http://www.manishshrivastava.com
