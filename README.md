@@ -25,7 +25,7 @@ after that you will be able to use [this seed file](https://github.com/manish-sh
 
 Please let me know if you have any doubt.
 
-#contact
+#contact me
 
 Manish Shrivastava
 
@@ -34,3 +34,5 @@ Mob: +91-9993858772
 Email: er.manishshrivastava@gmail.com
 
 URL: http://www.manishshrivastava.com
+
+License: MIT
