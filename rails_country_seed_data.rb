@@ -1,4 +1,6 @@
 #ruby on rails country data seed.
+# uncomment below line if you wish to delete existing country to prevent from duplicate records insertion.
+# Country.delete_all
 
 Country.create(country_code: 'AF', name: 'Afghanistan')
 Country.create(country_code: 'AL', name: 'Albania')
