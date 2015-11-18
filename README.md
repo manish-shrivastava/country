@@ -6,6 +6,8 @@ The Imported SQL contains the following info:
 #####Table name:  `countries`
 ##### Fields: 
 
-`id`:
-`country_code`: Two digit Country Short code (i.e. IN for INDIA)
-`name`: Full name of the Country.
+* `id`: Primary key
+
+* `country_code`: Two digit Country Short code (i.e. IN for INDIA)
+
+* `name`: Full name of the Country.
